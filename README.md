@@ -1,0 +1,2 @@
+# IMA206_PROJ
+Repository for IMA206 PROJ: MMD GAN
